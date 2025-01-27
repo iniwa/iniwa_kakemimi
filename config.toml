@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://iniwach.netlify.app"
 languageCode = "ja-jp"
 languageName = "Japanese"
 defaultContentLanguage = "ja"
