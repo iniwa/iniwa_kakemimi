@@ -252,19 +252,21 @@ article.sn > .article-body h3 {
 
 article.sn > .article-body ul,
 article.sn > .article-body ol {
-  margin: 1.5rem 0;
   padding-left: 1.5rem; }
 
+article.sn > .article-body > ul,
+article.sn > .article-body > ol {
+  margin: 1.5rem 0; }
+
 article.sn > .article-body li {
-  padding-bottom: .5rem;
-  line-height: 1.5rem; }
+  line-height: 2rem; }
 
 article.sn > .article-body li:last-child {
   padding-bottom: 0; }
 
 article.sn > .article-body p {
   margin: 1rem 0;
-  line-height: 1.5rem; }
+  line-height: 2rem; }
 
 article.sn > .article-body strong,
 article.sn > .article-body em {

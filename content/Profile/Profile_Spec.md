@@ -3,8 +3,6 @@ title: 自己紹介
 date: 2025-01-27T14:33:22.000Z
 draft: false
 thumbnail: images/default.jpg
-categories:
-  - 日記
 tags:
   - Profile
 
@@ -21,11 +19,10 @@ ITエンジニアではありません。
 
 ## 各リンク  
 [twitter](https://twitter.com/iniwach)  
-[Twitch](https://m.twitch.tv/iniwach/home)
+[Twitch](https://www.twitch.tv/iniwach)  
 [YouTube](https://www.youtube.com/channel/UCLaOje60cy_9qPJkB_G-AwA?view_as)  
 [Amazon欲しい物リスト](https://www.amazon.co.jp/hz/wishlist/ls/W24N0AURVEG1/ref=as_li_ss_tl?_encoding=UTF8&type=wishlist&linkCode=ll2&tag=iniwa-22&linkId=edd103709335d132eebad0fa5b616b46&language=ja_JP)  
 [VroidHUB](https://hub.vroid.com/users/17414090)  
-[Steamプロフィール](https://steamcommunity.com/id/iniwajp/)  
 
 ## PC環境  
 改装中。  
@@ -39,8 +36,8 @@ GPU : RTX4080
 **StreamingPC**  
 OS : Windows 11 64bit Home  
 CPU : Ryzen9 3950X 
-M/B :  
-RAM :  
+M/B : Asus B550 CREATOR
+RAM : G.skill 3600Mhz 16GBx2  
 GPU : RX6900XT  
 
 ### 使用デバイス
