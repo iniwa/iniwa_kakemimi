@@ -1,6 +1,7 @@
 ---
 title: 自己紹介
-date: 2025-01-27T14:33:22.000Z
+date: 2025-01-27T14:33:22.000
+Lastmod: 2025-01-27T15:33:22.000
 draft: false
 thumbnail: images/default.jpg
 tags:

@@ -1,6 +1,7 @@
 ---
 title: 自己紹介ｰ2025年
 date: 2025-01-27T14:35:22.000Z
+Lastmod: 2025-01-28
 draft: false
 thumbnail: images/default.jpg
 tags:
