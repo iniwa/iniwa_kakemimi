@@ -20,7 +20,8 @@ thumbnail = "images/author.jpg"
 name = "iniwa"
 description = "<p>ゲーム好きです。</p>"
 twitter = "https://twitter.com/iniwach"
-youtube = "https://www.youtube.com/channel/UCLaOje60cy_9qPJkB_G-AwA"
+YouTube = "https://www.youtube.com/channel/UCLaOje60cy_9qPJkB_G-AwA"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
+
