@@ -1,0 +1,27 @@
+baseURL = "http://localhost:1313/"
+languageCode = "ja-jp"
+languageName = "Japanese"
+defaultContentLanguage = "ja"
+title = "いにわの欠け耳"
+theme = "robust"
+
+tag = "tags"
+categorie = "categories"
+
+[params]
+description = "いにわのメモ帳的な場所です"
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+thumbnail = "images/author.jpg"
+name = "iniwa"
+description = "<p>ゲームとパソコンが趣味な人です。</p>"
+twitter = "https://twitter.com/iniwach"
+youtube = "https://www.youtube.com/channel/UCLaOje60cy_9qPJkB_G-AwA"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
