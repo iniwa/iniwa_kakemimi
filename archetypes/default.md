@@ -1,9 +1,9 @@
-+++
-title = "{{ .TranslationBaseName | humanize | title }}"
-draft = true
-date = "{{ .Date }}"
-thumbnail = ""
-description = ""
-categories = []
-tags = []
-+++
+---
+title: "{{ .TranslationBaseName | humanize | title }}"
+date: "{{ .Date }}"
+Lastmof: 
+draft: true
+thumbnail: images/default.jpg
+tags:
+  - 
+---

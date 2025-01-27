@@ -6,7 +6,6 @@ title = "いにわの欠け耳"
 theme = "robust"
 
 tag = "tags"
-categorie = "categories"
 
 [params]
 description = "いにわのメモ帳的な場所です"
