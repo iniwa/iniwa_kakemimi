@@ -7,13 +7,6 @@ theme = "robust"
 
 tag = "tags"
 
-[params]
-description = "いにわのメモ帳的な場所です"
-dateformat = "Jan 2, 2006" # Optional
-# Fonts settings.
-googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
-fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
 [params.author]
 thumbnail = "images/author.jpg"
@@ -21,6 +14,17 @@ name = "iniwa"
 description = "<p>ゲーム好きです。</p>"
 twitter = "https://twitter.com/iniwach"
 YouTube = "https://www.youtube.com/channel/UCLaOje60cy_9qPJkB_G-AwA"
+Twitch = "https://www.twitch.tv/iniwach"
+
+
+[params]
+description = "気が向いた時に更新します。"
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
