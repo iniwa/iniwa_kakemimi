@@ -5,6 +5,7 @@ defaultContentLanguage = "ja"
 title = "いにわの欠け耳"
 theme = "robust"
 
+[taxonomies]
 tag = "tags"
 archive = "archives"
 

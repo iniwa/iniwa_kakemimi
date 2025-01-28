@@ -1,14 +1,14 @@
 ---
-title: 録画･配信環境を2PCで整えた備忘録
-date: 2025-01-28T14:35:22.000Z
-Lastmod: 2025-01-28
-archives: 2025-01
+title: "録画･配信環境を2PCで整えた備忘録"
+date: "2025-01-28T14:35:22.000Z"
+Lastmod: "2025-01-28"
 draft: true
 thumbnail: images/default.jpg
+archives: 
+  - 2025-01
 tags:
   - 日記
   - Hugo
-
 ---
 
 満足のいく配信環境が組めたので 備忘録として残しておきます。  

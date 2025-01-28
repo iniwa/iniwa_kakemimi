@@ -1,14 +1,14 @@
 ---
-title: 2025年はじめ
-date: 2025-01-27T14:35:22.000Z
-Lastmod: 2025-01-28
-archives: 2025-01
+title: "2025年はじめ"
+date: "2025-01-27"
+Lastmod: "2025-01-28"
 draft: false
 thumbnail: images/default.jpg
+archives: 
+  - 2025-01
 tags:
   - 年始
   - 日記
-
 ---
 
 2025年がはじまってもう1ヶ月が過ぎようとしてる。  
