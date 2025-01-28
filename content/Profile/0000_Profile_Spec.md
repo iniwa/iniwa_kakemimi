@@ -1,13 +1,14 @@
 ---
-title: 自己紹介
-date: 2025-01-27T14:33:22.000
-Lastmod: 2025-01-28
-archives: 2025-01
+title: "自己紹介"
+date: "2025-01-27"
+Lastmod: "2025-01-28"
 draft: false
 thumbnail: images/default.jpg
+archives: 
+  - 2025-01
 tags:
   - Profile
-
+  - 
 ---
 
 # 自己紹介  
