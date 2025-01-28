@@ -15,6 +15,7 @@
       {{ with .github }}<li><a href="{{ . }}" rel="noopener nofollow" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a></li>{{ end }}
       {{ with .mail }}<li><a href="{{ . }}" rel="nofollow" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>{{ end }}
       {{ with .YouTube }}<li><a href="{{ . }}" rel="nofollow" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>{{ end }}
+      {{ with .Twitch }}<li><a href="{{ . }}" rel="nofollow" target="_blank"><i class="fa-brands fa-twitch"></i></a></li>{{ end }}
     </ul>
     <div class="author-description">{{ .description | safeHTML }}</div>
   </div>

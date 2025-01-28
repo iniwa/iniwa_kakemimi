@@ -2,6 +2,7 @@
 title: 2025年はじめ
 date: 2025-01-27T14:35:22.000Z
 Lastmod: 2025-01-28
+archives: 2025-01
 draft: false
 thumbnail: images/default.jpg
 tags:
